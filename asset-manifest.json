@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CV-Dashboard-admin/static/css/main.c19caa81.css",
+    "main.js": "/CV-Dashboard-admin/static/js/main.2d5fa76c.js",
+    "static/media/green_environment.png": "/CV-Dashboard-admin/static/media/green_environment.6653bca213a941b70a8d.png",
+    "index.html": "/CV-Dashboard-admin/index.html",
+    "main.c19caa81.css.map": "/CV-Dashboard-admin/static/css/main.c19caa81.css.map",
+    "main.2d5fa76c.js.map": "/CV-Dashboard-admin/static/js/main.2d5fa76c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19caa81.css",
+    "static/js/main.2d5fa76c.js"
+  ]
+}
